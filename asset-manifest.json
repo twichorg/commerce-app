@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/commerce-app/static/css/main.9acaecf1.chunk.css",
+    "main.js": "/commerce-app/static/js/main.f0ea227b.chunk.js",
+    "main.js.map": "/commerce-app/static/js/main.f0ea227b.chunk.js.map",
+    "runtime-main.js": "/commerce-app/static/js/runtime-main.37b0de73.js",
+    "runtime-main.js.map": "/commerce-app/static/js/runtime-main.37b0de73.js.map",
+    "static/js/2.1a9cd071.chunk.js": "/commerce-app/static/js/2.1a9cd071.chunk.js",
+    "static/js/2.1a9cd071.chunk.js.map": "/commerce-app/static/js/2.1a9cd071.chunk.js.map",
+    "index.html": "/commerce-app/index.html",
+    "static/css/main.9acaecf1.chunk.css.map": "/commerce-app/static/css/main.9acaecf1.chunk.css.map",
+    "static/js/2.1a9cd071.chunk.js.LICENSE.txt": "/commerce-app/static/js/2.1a9cd071.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/commerce-app/static/media/crown.207ae289.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b0de73.js",
+    "static/js/2.1a9cd071.chunk.js",
+    "static/css/main.9acaecf1.chunk.css",
+    "static/js/main.f0ea227b.chunk.js"
+  ]
+}
